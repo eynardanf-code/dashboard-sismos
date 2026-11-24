@@ -1,6 +1,6 @@
 # 🌎 Terremotos significativos en el mundo (1965–2016) – Dashboard interactivo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](PEGAR_AQUI_URL_DE_STREAMLIT)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sismos-eynarfranco.streamlit.app)
 
 ## Descripción del proyecto
 
@@ -12,7 +12,7 @@ La pregunta que guía el análisis es si la **profundidad** y la **ubicación** 
 
 ## Dashboard publicado
 
-👉 **[Abrir el dashboard](PEGAR_AQUI_URL_DE_STREAMLIT)**
+👉 **[Abrir el dashboard](https://sismos-eynarfranco.streamlit.app)**
 
 > Si la app estuvo varios días sin visitas, puede tardar entre 30 y 60 segundos en “despertar”. Es normal.
 
